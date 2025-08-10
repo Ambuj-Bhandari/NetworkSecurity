@@ -5,3 +5,4 @@ pymongo
 pymongo[srv]==3.11
 certifi
 ipykernel
+scikit-learn
