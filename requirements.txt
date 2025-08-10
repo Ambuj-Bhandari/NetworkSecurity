@@ -1,6 +1,7 @@
-pyhton-dotenv
+python-dotenv
 pandas
 numpy
 pymongo
+pymongo[srv]==3.11
 certifi
 ipykernel
