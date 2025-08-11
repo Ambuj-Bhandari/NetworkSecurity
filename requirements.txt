@@ -1,8 +1,10 @@
 python-dotenv
 pandas
 numpy
-pymongo
+pymongo[srv]
 pymongo[srv]==3.11
 certifi
 ipykernel
 scikit-learn
+dill
+pyaml
